@@ -1,20 +1,4 @@
-- 👋 Hi, I’m Victoria 
-- 👀 I’m interested in
-    Movies, music, tv, philosophy, reading
-- seeking to learn
-    - Full Stack Web Development
-    - SQL/SAS/PANDAS
-    - Swift
-- 🌱 I’m currently learning
-    - Data Structures
-    - Assembly Languages and Interpreters
-    - Javascript
-- 📫 How to reach me
-    victoriasun1230@gmail.com
-- 😄 Pronouns:
-    She/Her
-- Current Languages:
-    C, C++, Java, HTML, CSS
+
 
 
 <!---
